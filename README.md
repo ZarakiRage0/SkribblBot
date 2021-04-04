@@ -9,7 +9,7 @@ Also, it was an opportunity to see how discord bots were made.
 
 # About
 The bot can generate custom &/or theme words for you to use in [skribbl.io](https://skribbl.io).  
-Hence, the bot has commands like ```insert```, ```theme```.  
+Hence, the bot has commands like ```$insert```, ```$theme```.  
 To check the custom words, use the command ```$show custom```.  
 The words are stored in a list. And so you can save these words for another day through ```$save``` or you can clear the list using ```$flush```.  
 Side note, when you run the bot, it loads ```custom.txt``` into the custom words' list.  
